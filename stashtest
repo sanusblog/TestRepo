@@ -1,6 +1,10 @@
 This is for test STASH
 updated line for test
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 test line 3
 =======
 >>>>>>> stashbranch
+=======
+updated after merge
+>>>>>>> Stashed changes
